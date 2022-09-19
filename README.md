@@ -6,4 +6,6 @@
 
 2.更多学习探讨可以在知乎搜索我的账号   zhihu.com/people/dao-nan-46  并私信我
 
-3.非常感谢itheima给予的免费网课帮助
+3.其中一个主要的案例设计在另一个库：PingPongPK中
+
+4.非常感谢itheima给予的免费网课帮助
