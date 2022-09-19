@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Graphical Programming/Graphical Programming.iml" filepath="$PROJECT_DIR$/../Graphical Programming/Graphical Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Graphical Programming/java_cyd/java_cyd.iml" filepath="$PROJECT_DIR$/../Graphical Programming/java_cyd/java_cyd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/start2.iml" filepath="$PROJECT_DIR$/start2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../start3/start3.iml" filepath="$PROJECT_DIR$/../start3/start3.iml" />
+    </modules>
+  </component>
+</project>
